@@ -1,0 +1,10 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    right:0;
+    padding: 1px;
+}
+.feedback-icon{
+    color: #06acf9;
+    font-size: 60px;
+}

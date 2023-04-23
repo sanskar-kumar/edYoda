@@ -1,0 +1,42 @@
+body{
+  background-color: #ECF2FF;
+}
+.navbar{
+  display: flex;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  height: 10%;
+  padding-bottom: 0%;
+  background-color: white;
+  z-index: 0;
+  position: fixed;
+  top: 0;
+}
+.nav-heading{
+  margin: auto;
+  margin-left: 10%;
+  font-size: 20px;
+  color:aqua;
+  font-weight: bolder;
+}
+.nav-user-details{
+  display: flex;
+  margin: auto;
+  margin-right: 10%;
+
+
+}
+.user-img{
+  height: 50px;
+  border-radius: 50%;
+}
+/* .username{
+  padding: 10px;
+} */
+.user-image{
+  display: flex;
+  margin: auto;
+  margin-right: 10%;
+}

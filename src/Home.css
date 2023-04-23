@@ -1,0 +1,240 @@
+.home {
+  margin: auto;
+  margin-top: 15%;
+  top: 20;
+  margin-left: 10%;
+  height: 100%;
+}
+.upcoming-certifications {
+  margin: 5%;
+}
+.upcoming-certifications-heading {
+  margin: auto;
+  margin-bottom: 2%;
+  font-size: 35px;
+  font-weight: 600;
+}
+.upcoming-certifications-details {
+  /* margin: auto; */
+  /* margin:5%; */
+  background-color: white;
+  border: 2px solid #97deff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #9ecaed;
+  display: flex;
+}
+.certifications-logo {
+  width: 25%;
+  margin: 5%;
+  height: 100px;
+  width: 100px;
+}
+.certifications-details {
+  width: 25%;
+  margin: 2%;
+}
+.certifications-minor {
+  background-color: rgb(234, 228, 228);
+  margin: 5%;
+  border-radius: 25px;
+  text-align: center;
+}
+.certifications-name {
+  margin: 5%;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: left;
+}
+.certifications-date {
+  margin: 5%;
+  background-color: #97deff;
+  text-align: center;
+  border-radius: 25px;
+}
+.exam-structure {
+  width: 25%;
+  margin: 2%;
+}
+.exam-structure-heading {
+  margin: 5%;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+}
+.round {
+  margin: 5%;
+  display: flex;
+  font-size: 15px;
+  font-weight: 300;
+}
+.round-heading {
+  display: block;
+  font-size: large;
+  text-align: left;
+  padding: 2%;
+}
+.round-details {
+  background-color: rgb(202, 193, 193);
+  text-align: center;
+  border-radius: 25px;
+  padding: 3%;
+  margin: 2%;
+}
+.exam-details {
+  width: 25%;
+  margin: 5%;
+  align-items: center;
+  text-align: center;
+}
+.exam-details-button {
+  font-size: 25px;
+  font-weight: 600;
+  background-color: white;
+  color: #5dc9fc;
+  border: 2px solid #0eb3ff;
+  border-radius: 10px;
+  padding: 5%;
+}
+.continue-learning {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+.continue-learning-heading {
+  margin: auto;
+  margin-bottom: 2%;
+  font-size: 35px;
+  font-weight: 600;
+}
+.module-details {
+  text-align: right;
+  font-size: 20px;
+  font-weight: 600;
+  /* margin-left: 5%;
+    margin-right: 5%; */
+  color: #0eb3ff;
+}
+.continue-learning-details {
+  /* margin-left: 5%;
+    margin-right: 5%; */
+  /* margin-bottom: 5%; */
+  background-color: white;
+  margin-top: 2%;
+  display: flex;
+  width: 100%;
+  border-radius: 5px;
+  border: 2px solid #97deff;
+  box-shadow: 0 0 10px #9ecaed;
+}
+.left-part {
+  /* width: 50%; */
+  border-right: 2px solid #97deff;
+  display: flex;
+}
+.continue-learning-course {
+
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.continue-learning-course-logo {
+  width: 25%;
+  margin: 5%;
+  height: 100px;
+  width: 100px;
+}
+.continue-learning-course-heading {
+  width: 75%;
+  margin: 5%;
+  font-size: 25px;
+  font-weight: 600;
+}
+.test-instructor {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.test-instructor-logo {
+  width: 25%;
+  margin: 5%;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+.user-img {
+  height: 50px;
+  border-radius: 50%;
+}
+.test-instructor-heading {
+  width: 75%;
+  margin: 5%;
+  font-size: 20px;
+  font-weight: 400;
+  color: #0eb3ff;
+}
+.progress-records {
+  font-size: 20px;
+  padding: 5px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+.progress-bar {
+  padding: 5px;
+  border-radius: 25px;
+  color: #0eb3ff;
+}
+.today-plan {
+    width: 25%;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.today-plan-details{
+    margin: 5%;
+    text-align: center;
+}
+.join{
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #97deff;
+    font-size: 25px;
+    margin: 5%;
+}
+.progress-parent{
+    width:25%;
+    border-left: 2px solid #97deff;
+
+}
+.Progress-Overview {
+    /* width: 25%; */
+  background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin: 5%;
+  
+}
+.Progress-Overview-details{
+    border: 2px solid #3dbffb;
+    border-radius: 25px;;
+    padding: 10px;
+    margin: 5%;
+}
+.Progress-Overview-heading{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.progress-bar-right {
+    padding: 10px;
+    border-radius: 25px;
+    color: #0eb3ff;
+  }

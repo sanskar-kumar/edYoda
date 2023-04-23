@@ -1,0 +1,44 @@
+.module-sidebar {
+    margin-left: 8%;
+    height: 100%;
+    width: 20%;
+    z-index: 0;
+    position: fixed;
+    top: 10%;
+    left: 0;
+    background-color :#9BA4B5;
+    transition: 0.5s ease;
+    overflow-x: hidden;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+  }
+  .module-sidebar-items{
+    margin: 5%;
+  }
+  .module-sidebar-item{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10px;
+  }
+  .module-sidebar-link{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: 300 ;
+    color: black;
+  }
+  .module-sidebar-link-active{
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: 300 ;
+    background-color: white;
+  }
+  .module-icons{
+    color: #0B2447;
+    text-align: center;
+  }

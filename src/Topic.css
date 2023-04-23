@@ -1,0 +1,19 @@
+.topic-content{
+    margin-left: 28%;
+    margin-top: 5%;
+    padding: 2%;
+}
+.topic-content-core{
+    margin: 5%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5%;
+}
+.join-now{
+    padding: 10px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    border-radius: 25px;
+    background-color: #f3f3f3;
+}

@@ -1,0 +1,46 @@
+.sidenav {
+  height: 100%;
+  width: 8%;
+  z-index: 0;
+  position: fixed;
+  top: 10%;
+  left: 0;
+  background-color :#0B2447;
+  transition: 0.5s ease;
+  overflow-x: hidden;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0%;
+}
+.icon-desc{
+    margin: 10px;
+    text-align: center;
+    /* background-color: white; */
+
+}
+.icon-desc-active{
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+}
+.icons{
+    /* margin: 10px; */
+    color: white;
+    font-size: 50px;
+    
+    /* cursor: pointer; */
+}
+.icons-active{
+    color:#0B2447;
+    font-size: 50px;
+}
+.icon-text{
+    color: white;
+    font-size: 20px;
+    /* margin: 10px; */
+}
+.icon-text-active{
+    color: #0B2447;
+    font-size: 20px;
+}
